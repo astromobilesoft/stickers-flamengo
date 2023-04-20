@@ -1,0 +1,48 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.flamengo",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "seriea19f",
+      "name": "Pack Serie A 2019 (9)",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "seriea19e",
+      "name": "Pack Serie A 2019 (8)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "seriea19d",
+      "name": "Pack Serie A 2019 (7)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "seriea19c",
+      "name": "Pack Serie A 2019 (6)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "seriea19b",
+      "name": "Pack Serie A 2019 (5)",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "seriea19",
+      "name": "Pack Serie A 2019 (4)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "libertadores2",
+      "name": "Pack Libertadores 2019",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    }
+  ]
+}

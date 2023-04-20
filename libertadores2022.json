@@ -1,0 +1,138 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.flamengo",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "libertadores2022w4",
+      "name": "Campeão Libertadores 2022 4",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "libertadores2022wa1",
+      "name": "Campeão Libertadores 2022 5",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "libertadores2022wa2",
+      "name": "Campeão Libertadores 2022 6",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "libertadores2022w3",
+      "name": "Campeão Libertadores 2022 3",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "libertadores2022w2",
+      "name": "Campeão Libertadores 2022 2",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "libertadores2022w1",
+      "name": "Campeão Libertadores 2022 1",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "previafinal2022",
+      "name": "Ta chegando a hora",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "libertadores2022s2a",
+      "name": "vs Velez (2)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "libertadores2022s2b",
+      "name": "vs Velez (3)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "libertadores2022s1",
+      "name": "vs Velez (1)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "libertadores2022previasemi",
+      "name": "Pela Semi",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "libertadores2022c2",
+      "name": "vs Corinthians (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022c2a1",
+      "name": "vs Corinthians (3)",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "libertadores2022c1",
+      "name": "vs Corinthians (1)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "libertadores2022o2",
+      "name": "vs Tolima (2)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "libertadores2022o1",
+      "name": "vs Tolima (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "libertadores2022fg6",
+      "name": "vs Sporting Cristal (2)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "libertadores2022fg5",
+      "name": "vs U. Catolica (2)",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "libertadores2022fg4",
+      "name": "vs Talleres",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "libertadores2022fg3",
+      "name": "vs U. Catolica (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022fg2",
+      "name": "vs Talleres",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "libertadores2022fg1",
+      "name": "vs Sporting Cristal",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    }
+  ]
+}

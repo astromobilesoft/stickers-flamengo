@@ -1,0 +1,78 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.flamengo",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "jorgesampaoli1",
+      "name": "Jorge Sampaoli",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "club1",
+      "name": "Clube 1",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "club2",
+      "name": "Clube 2",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "rogerioceni",
+      "name": "Rogerio Ceni",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "produtos2021",
+      "name": "Produtos 2021",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "gol2021a",
+      "name": "Gol 2021 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "gol2021b",
+      "name": "Gol 2021 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "28octubre",
+      "name": "Dia do Flamenguista",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "camisa2021a",
+      "name": "Camisa 2021",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "jorgejesus",
+      "name": "Pack Jorge Jesus",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "escudos1",
+      "name": "Pack Escudos",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "torcida",
+      "name": "Pack Torcida",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    }
+  ]
+}

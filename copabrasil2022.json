@@ -1,0 +1,60 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.flamengo",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "copabrasil2022w4",
+      "name": "Campeão Copa Brasil 2022",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "copabrasil2022w3",
+      "name": "vs Corinthians (3)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "copabrasil2022w2",
+      "name": "vs Corinthians (2)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "copabrasil2022w1",
+      "name": "vs Corinthians (1)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "copabrasil2022s1",
+      "name": "vs Sao Paulo (1)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "copabrasil2022o2",
+      "name": "vs Paranense",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "copabrasil2022f82",
+      "name": "vs Mineiro (2)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "copabrasil2022f162",
+      "name": "vs AE Altos (2)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "copabrasil2022f16",
+      "name": "vs AE Altos (1)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    }
+  ]
+}

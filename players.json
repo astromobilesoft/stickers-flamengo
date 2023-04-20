@@ -1,0 +1,132 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.flamengo",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "marinho1",
+      "name": "Marinho",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "joaogomes1",
+      "name": "João Gomes",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "giorgiandearrascaeta1",
+      "name": "G. De Arrascaeta",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "plantilla2022b",
+      "name": "Elenco 2022 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "pedro",
+      "name": "Pedro",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "everton",
+      "name": "Everton",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "plantilla2022a",
+      "name": "Elenco 2022 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "erickpulgar1",
+      "name": "Erick Pulgar",
+      "animated_sticker_pack": false,
+      "stickers": "8"
+    },
+    {
+      "identifier": "arturovidal1",
+      "name": "Arturo Vidal",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "gol2021b",
+      "name": "Gol 2021 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "davidluiz",
+      "name": "David Luiz",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "gol2021",
+      "name": "Gol 2021 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "diegoalves",
+      "name": "Pack Diego Alves",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "jogadores1",
+      "name": "Pack Jogadores",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "brunohenrique",
+      "name": "Pack Bruno Henrique",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "gabigol",
+      "name": "Pack Gabigol",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "gol",
+      "name": "Pack Gol",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "bemvindo",
+      "name": "Pack Bem-Vindo",
+      "animated_sticker_pack": false,
+      "stickers": "8"
+    },
+    {
+      "identifier": "vinicius",
+      "name": "Pack Vinicius",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "idolos1",
+      "name": "Pack Idolos",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "jogadores2",
+      "name": "Pack Jogadores 2",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    }
+  ]
+}

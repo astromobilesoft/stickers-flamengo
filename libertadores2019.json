@@ -1,0 +1,66 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.flamengo",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "final2019d",
+      "name": "Campeao Libertadores 2019 (4)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "final2019c",
+      "name": "Campeao Libertadores 2019 (3)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "heptacampeao",
+      "name": "Pack Hepta Campeao 2019",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "final2019b",
+      "name": "Campeao Libertadores 2019 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "final2019",
+      "name": "Campeao Libertadores 2019 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "previafinal2019",
+      "name": "Pack Pre Final 2019",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "libertadores4",
+      "name": "Libertadores 2019 (Semi)",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "previa",
+      "name": "Pack Pela Copa",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "libertadores3",
+      "name": "Pack Libertadores 2019 (3)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "libertadores1",
+      "name": "Pack Libertadores 2019 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    }
+  ]
+}
