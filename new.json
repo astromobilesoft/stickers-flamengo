@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "copabrasil2023f16a",
+      "name": "vs Maringa (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "copabrasil2023f16b",
+      "name": "vs Maringa (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "libertadores2023fg2",
       "name": "vs Nublense",
       "animated_sticker_pack": false,
