@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "copabrasil2023f4a",
+      "name": "vs A. Paranaense (1)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "copabrasil2023f4b",
+      "name": "vs A. Paranaense (2)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
       "identifier": "brasileirao2023j13",
       "name": "vs Fortaleza",
       "animated_sticker_pack": false,
