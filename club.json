@@ -4,6 +4,12 @@
   "sticker_packs": [
     {
       "identifier": "gol2023a",
+      "name": "Gol 2",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "gol2023a",
       "name": "Gol 2023 (1)",
       "animated_sticker_pack": false,
       "stickers": "16"
