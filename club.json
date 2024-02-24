@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "camisaretro1",
+      "name": "Camisa Retro",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
       "identifier": "gol2",
       "name": "Gol 2",
       "animated_sticker_pack": false,
