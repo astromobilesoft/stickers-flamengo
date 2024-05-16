@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "libertadores2024fg5a",
+      "name": "vs Bolivar (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "libertadores2024fg5b",
+      "name": "vs Bolivar (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "brasileirao2024j6",
       "name": "vs Corinthians",
       "animated_sticker_pack": false,
