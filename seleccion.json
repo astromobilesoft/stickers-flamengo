@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier":"copaamerica2024brasil1",
+      "name":"Brasil 2024 (2)",
+      "animated_sticker_pack":false,
+      "stickers":"26"
+    },
+    {
+      "identifier":"copaamerica2024brasil2",
+      "name":"Brasil 2024 (2)",
+      "animated_sticker_pack":false,
+      "stickers":"8"
+    },
+    {
       "identifier": "worldcup2022o6a",
       "name": "Brasil vs Coreia do Sul (1)",
       "animated_sticker_pack": false,
