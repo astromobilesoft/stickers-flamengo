@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "golpedroa1",
+      "name": "Gol Pedro",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
       "identifier": "logoa1",
       "name": "Logo (1)",
       "animated_sticker_pack": true,
