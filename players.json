@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "plantilla2024b",
+      "name": "Elenco 2024 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
       "identifier": "michael1",
       "name":"Michael",
       "animated_sticker_pack": false,
@@ -16,7 +22,7 @@
     },
     {
       "identifier": "plantilla2024",
-      "name": "Elenco 2024",
+      "name": "Elenco 2024 (1)",
       "animated_sticker_pack": false,
       "stickers": "24"
     },
