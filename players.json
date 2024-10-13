@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "gerson1",
+      "name":"Gerson (1)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "gerson2",
+      "name":"Gerson (2)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
       "identifier": "plantilla2024b",
       "name": "Elenco 2024 (2)",
       "animated_sticker_pack": false,

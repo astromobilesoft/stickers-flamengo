@@ -3,11 +3,23 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-      "identifier":"brasileirao2024j29",
-      "name":"vs Bahia",
-      "animated_sticker_pack":false,
-      "stickers":"17"
-    },
+         "identifier": "gerson1",
+         "name":"Gerson (1)",
+         "animated_sticker_pack": false,
+         "stickers": "23"
+      },
+      {
+         "identifier": "gerson2",
+         "name":"Gerson (2)",
+         "animated_sticker_pack": false,
+         "stickers": "23"
+      },
+      {
+         "identifier":"brasileirao2024j29",
+         "name":"vs Bahia",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
       {
          "identifier":"copabrasil2024s1",
          "name":"vs Corinthians",
