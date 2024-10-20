@@ -3,16 +3,34 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier": "gerson1",
-         "name":"Gerson (1)",
-         "animated_sticker_pack": false,
-         "stickers": "23"
+         "identifier":"kit2425a",
+         "name":"Camisa 24-25 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"29"
       },
       {
-         "identifier": "gerson2",
+         "identifier":"kit2425b",
+         "name":"Camisa 24-25 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"kit2425c",
+         "name":"Camisa 24-25 (3)",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"gerson1",
+         "name":"Gerson (1)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"gerson2",
          "name":"Gerson (2)",
-         "animated_sticker_pack": false,
-         "stickers": "23"
+         "animated_sticker_pack":false,
+         "stickers":"23"
       },
       {
          "identifier":"brasileirao2024j29",
