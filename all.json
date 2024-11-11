@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"copabrasil2024w1",
+         "name":"Campeao 2024 (4)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"copabrasil2024w2",
+         "name":"Campeao 2024 (5)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"copabrasil2024a3",
          "name":"Campeao 2024 (1)",
          "animated_sticker_pack":false,
