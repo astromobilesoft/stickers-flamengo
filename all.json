@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"supercopa2025",
+         "name":"vs Botafogo",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
          "identifier":"brasileirao2024j37",
          "name":"vs Criciuma",
          "animated_sticker_pack":false,
