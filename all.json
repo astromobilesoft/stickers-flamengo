@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"carioca2025w1",
+         "name":"Campeão Carioca 2025 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"carioca2025w2",
+         "name":"Campeão Carioca 2025 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
          "identifier":"carioca2025f1",
          "name":"vs Fluminense",
          "animated_sticker_pack":false,
