@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"urubu1",
+         "name":"Urubu (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"urubu2",
+         "name":"Urubu (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"felizpascoa1",
          "name":"Feliz Pascoa (1)",
          "animated_sticker_pack":false,
