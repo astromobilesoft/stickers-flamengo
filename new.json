@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"copabrasil2025f16b",
+         "name":"vs Botafogo PB (2)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
          "identifier":"libertadores2025fg5",
          "name":"vs LDU Quito",
          "animated_sticker_pack":false,
@@ -16,7 +22,7 @@
       },
       {
          "identifier":"copabrasil2025f16",
-         "name":"vs Botafogo PB",
+         "name":"vs Botafogo PB (1)",
          "animated_sticker_pack":false,
          "stickers":"26"
       },
