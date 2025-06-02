@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"brasileirao2025j11a",
+         "name":"vs Fortaleza (1)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"brasileirao2025j11b",
+         "name":"vs Fortaleza (2)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
          "identifier":"libertadores2025fg6",
          "name":"vs Dep. Tachira (2)",
          "animated_sticker_pack":false,
