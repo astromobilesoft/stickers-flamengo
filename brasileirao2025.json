@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
       {
+         "identifier":"brasileirao2025j29a",
+         "name":"vs Palmeiras (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },  
+      {
+         "identifier":"brasileirao2025j29b",
+         "name":"vs Palmeiras (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },         
+      {
          "identifier":"brasileirao2025j28",
          "name":"vs Botafogo",
          "animated_sticker_pack":false,
