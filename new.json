@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"mantosagrado1",
+         "name":"Manto Sagrado (1)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },      
+      {
+         "identifier":"mantosagrado2",
+         "name":"Manto Sagrado (2)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },          
+      {
          "identifier":"libertadores2025s1",
          "name":"vs Racing Club",
          "animated_sticker_pack":false,
