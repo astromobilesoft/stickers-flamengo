@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"brasileirao2025j33a",
+         "name":"vs Santos (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"brasileirao2025j33b",
+         "name":"vs Santos (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },         
+      {
          "identifier":"brasileirao2025j32",
          "name":"vs Sao Paulo",
          "animated_sticker_pack":false,
