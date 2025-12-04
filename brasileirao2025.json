@@ -7,7 +7,13 @@
          "name":"Campeão Brasileirão 2025 (1)",
          "animated_sticker_pack":false,
          "stickers":"9"
-      },      
+      },         
+      {
+         "identifier":"brasileirao2025j37",
+         "name":"vs Ceará",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },        
       {
          "identifier":"brasileirao2025j36",
          "name":"vs Atletico-MG",
