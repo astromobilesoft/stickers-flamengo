@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"intercontinental2025s1",
+         "name":"vs Pyramids",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },      
+      {
          "identifier":"intercontinental2025c1",
          "name":"vs Cruz Azul",
          "animated_sticker_pack":false,
