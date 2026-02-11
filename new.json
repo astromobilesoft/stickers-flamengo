@@ -1,7 +1,13 @@
 {
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.flamengo",
    "ios_app_store_link":"",
-   "sticker_packs":[ 
+   "sticker_packs":[
+      {
+         "identifier":"brasileirao2026j3",
+         "name":"vs Vitória",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
       {
          "identifier":"carioca2026f6",
          "name":"vs Sampaio Correa",
@@ -25,85 +31,85 @@
          "name":"vs Pyramids",
          "animated_sticker_pack":false,
          "stickers":"25"
-      },        
+      },
       {
          "identifier":"intercontinental2025c1",
          "name":"vs Cruz Azul",
          "animated_sticker_pack":false,
          "stickers":"21"
-      },        
+      },
       {
          "identifier":"brasileirao2025j38",
          "name":"vs Mirassol",
          "animated_sticker_pack":false,
          "stickers":"20"
-      }, 
+      },
       {
          "identifier":"brasileirao2025w5",
          "name":"Campeão Brasileirão 2025 (5)",
          "animated_sticker_pack":false,
          "stickers":"19"
-      },     
+      },
       {
          "identifier":"brasileirao2025w4",
          "name":"Campeão Brasileirão 2025 (4)",
          "animated_sticker_pack":false,
          "stickers":"19"
-      },        
+      },
       {
          "identifier":"brasileirao2025w3",
          "name":"Campeão Brasileirão 2025 (3)",
          "animated_sticker_pack":false,
          "stickers":"19"
-      },       
+      },
       {
          "identifier":"brasileirao2025w2",
          "name":"Campeão Brasileirão 2025 (2)",
          "animated_sticker_pack":false,
          "stickers":"15"
-      },        
+      },
       {
          "identifier":"brasileirao2025w1",
          "name":"Campeão Brasileirão 2025 (1)",
          "animated_sticker_pack":false,
          "stickers":"9"
-      },         
+      },
       {
          "identifier":"brasileirao2025j37",
          "name":"vs Ceará",
          "animated_sticker_pack":false,
          "stickers":"21"
-      },               
+      },
       {
          "identifier":"libertadores2025w6",
          "name":"Campeão Libertadores 2025 (6)",
          "animated_sticker_pack":false,
          "stickers":"20"
-      },    
+      },
       {
          "identifier":"libertadores2025w5",
          "name":"Campeão Libertadores 2025 (5)",
          "animated_sticker_pack":false,
          "stickers":"20"
-      },         
+      },
       {
          "identifier":"libertadores2025w4",
          "name":"Campeão Libertadores 2025 (4)",
          "animated_sticker_pack":false,
          "stickers":"20"
-      },    
+      },
       {
          "identifier":"libertadores2025w3",
          "name":"Campeão Libertadores 2025 (3)",
          "animated_sticker_pack":false,
          "stickers":"22"
-      },       
+      },
       {
          "identifier":"libertadores2025w2",
          "name":"Campeão Libertadores 2025 (2)",
          "animated_sticker_pack":false,
          "stickers":"6"
-      },      
+      },
       {
          "identifier":"libertadores2025w1",
          "name":"Campeão Libertadores 2025 (1)",
@@ -115,19 +121,19 @@
          "name":"vs Atletico-MG",
          "animated_sticker_pack":false,
          "stickers":"19"
-      },       
+      },
       {
          "identifier":"brasileirao2025j35",
          "name":"vs Bragantino",
          "animated_sticker_pack":false,
          "stickers":"25"
-      },         
+      },
       {
          "identifier":"brasileirao2025j12",
          "name":"vs Sport Recife",
          "animated_sticker_pack":false,
          "stickers":"22"
-      },      
+      },
       {
          "identifier":"brasileirao2025j33a",
          "name":"vs Santos (1)",
@@ -139,73 +145,73 @@
          "name":"vs Santos (2)",
          "animated_sticker_pack":false,
          "stickers":"20"
-      },         
+      },
       {
          "identifier":"brasileirao2025j32",
          "name":"vs Sao Paulo",
          "animated_sticker_pack":false,
          "stickers":"23"
-      },        
+      },
       {
          "identifier":"brasileirao2025j31",
          "name":"vs Sport Recife",
          "animated_sticker_pack":false,
          "stickers":"24"
-      },        
+      },
       {
          "identifier":"mantosagrado1",
          "name":"Manto Sagrado (1)",
          "animated_sticker_pack":false,
          "stickers":"26"
-      },      
+      },
       {
          "identifier":"mantosagrado2",
          "name":"Manto Sagrado (2)",
          "animated_sticker_pack":false,
          "stickers":"25"
-      },          
+      },
       {
          "identifier":"libertadores2025s1",
          "name":"vs Racing Club",
          "animated_sticker_pack":false,
          "stickers":"27"
-      },             
+      },
       {
          "identifier":"brasileirao2025j29a",
          "name":"vs Palmeiras (1)",
          "animated_sticker_pack":false,
          "stickers":"16"
-      },  
+      },
       {
          "identifier":"brasileirao2025j29b",
          "name":"vs Palmeiras (2)",
          "animated_sticker_pack":false,
          "stickers":"16"
-      },        
+      },
       {
          "identifier":"brasileirao2025j28",
          "name":"vs Botafogo",
          "animated_sticker_pack":false,
          "stickers":"19"
-      },            
+      },
       {
          "identifier":"golpedroa1",
          "name":"Pedro Gol",
          "animated_sticker_pack":true,
          "stickers":"10"
-      },  
+      },
       {
          "identifier":"gola1",
          "name":"Gol Animado",
          "animated_sticker_pack":true,
          "stickers":"10"
-      },        
+      },
       {
          "identifier":"brasileirao2025j25",
          "name":"vs Corinthians",
          "animated_sticker_pack":false,
          "stickers":"26"
-      },          
+      },
       {
          "identifier":"libertadores2025c3",
          "name":"vs Estudiantes LP (3)",
@@ -223,13 +229,13 @@
          "name":"vs Estudiantes LP (2)",
          "animated_sticker_pack":false,
          "stickers":"19"
-      },         
+      },
       {
          "identifier":"brasileirao2025j23",
          "name":"vs Juventude",
          "animated_sticker_pack":false,
          "stickers":"26"
-      },         
+      },
       {
          "identifier":"brasileirao2025j22",
          "name":"vs Gremio",
