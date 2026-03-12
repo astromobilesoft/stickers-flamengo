@@ -2,6 +2,12 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.flamengo",
    "ios_app_store_link":"",
    "sticker_packs":[
+      {
+         "identifier":"seriea26F5",
+         "name":"vs Cruzeiro",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
      {
         "identifier":"carioca2026w1",
         "name":"Campeão Carioca 2026 (1)",
