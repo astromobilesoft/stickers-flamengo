@@ -9,6 +9,42 @@
          "stickers":"17"
       },               
       {
+         "identifier":"kit2026a1",
+         "name":"Camisa I 2026 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },  
+      {
+         "identifier":"kit2026a2",
+         "name":"Camisa I 2026 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },  
+      {
+         "identifier":"kit2026b1",
+         "name":"Camisa II 2026 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },  
+      {
+         "identifier":"kit2026b2",
+         "name":"Camisa II 2026 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },  
+      {
+         "identifier":"kit2026c1",
+         "name":"Camisa III 2026 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },  
+      {
+         "identifier":"kit2026c2",
+         "name":"Camisa III 2026 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },      
+      {
          "identifier":"libertadores2026o1",
          "name":"vs Cruzeiro",
          "animated_sticker_pack":false,
