@@ -4,6 +4,12 @@
    "sticker_packs":[
       {
          "identifier":"brasileirao2026w2",
+         "name":"Mengo Estudio",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },   
+      {
+         "identifier":"brasileirao2026w2",
          "name":"Campeão Brasileirão 2026 (2)",
          "animated_sticker_pack":false,
          "stickers":"15"
